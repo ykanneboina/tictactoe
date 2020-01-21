@@ -1,2 +1,2 @@
-# tictactoe
+# TicTacToe
 C++ Tic Tac Toe
